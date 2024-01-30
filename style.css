@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'poppins',sans-serif;
+    background-color: #F2F3F4;
+}
+nav ul{
+    list-style: none;
+    padding: 0px;
+}
+nav ul li{
+    display: inline-block;
+    margin: 2rem;
+}
+li a{
+    text-decoration: none;
+    color: #272022;
+    font-weight: 900;
+}
+.container{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    max-width:10%;
+    min-width: 1100px;
+    margin: 10rem 10rem 10rem 16rem;
+    border-radius: 6px;
+}
+img{
+    padding-left: 2rem;
+}
+.header{
+    padding-left: 20rem;
+}
