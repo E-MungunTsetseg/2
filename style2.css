@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'poppins',sans-serif;
+}
+h1{
+    font-size: 3rem;
+    padding: 3rem;
+    color:rgb(48, 50, 69) ;
+}
+h2{
+    font-size: 2rem;
+    padding: 2rem;
+    padding-bottom: 3rem;
+    color:rgb(48, 50, 69) ;
+}
+.list{
+    font-size: 1.5rem;
+    padding-left: 4rem;
+    color:rgb(105, 115, 134);
+    line-height: 1.5;
+}
+button{
+    height: 60px;
+    width: 400px;
+    border-radius:30px;
+    border-color:  rgb(207, 0, 79) ;
+    color:  rgb(207, 0, 79) ;
+    background-color: white;
+    font-size: 1rem;
+    margin: 2rem;
+}
+button img{
+    padding-right: 1rem;
+}
+.comment{
+    font-size: 1.5rem;
+    padding-left: 4rem;
+    color:rgb(105, 115, 134);
+    line-height: 1.5;
+}
+.comments{
+    background-color: rgb(255, 251, 245);
+    height: 350px;
+    width: 400px;
+    border-radius:1rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
